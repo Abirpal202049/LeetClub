@@ -8,7 +8,6 @@ public:
             else
                 x = x - 1;
         }
-        operations.clear();
         return x;
     }
 };
